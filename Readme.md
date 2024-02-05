@@ -59,6 +59,23 @@ Routes
 - https://www.youtube.com/watch?v=UZIhVmkrAEs
 -Bootstrap documentation and Flask documentation
 
+## Walkthrough
 
+Because these are GIFs, I was not able to capture all the functionality in one video, so I decided to record different GIFs of selected functionalities. The GIFs don't include all the functionalities but focus on the main features of the application. The application has many more functionalities, so please download the app to play with it :)
 
+Bidder's Basic Functionality - Navigating the Auction Platform
+
+<img src="http://g.recordit.co/wCC2dvLXhq.gif" width=250><br>
+
+Category Browsing and Bidding Functionality - Navigating Categories and Placing Bids Seamlessly
+
+<img src="http://g.recordit.co/YQOwkSwLsh.gif" width=250><br>
+
+Post-bidding, this GIF showcases notifications to all bidders, payment prompts for the winner, and updates to the bids and purchase history.
+
+<img src="http://g.recordit.co/DwGpQHQB5y.gif" width=250><br>
+
+Seller Interface: Managing Auctions and Viewing Listings
+
+<img src="http://g.recordit.co/AhtAgwvg74.gif" width=250><br>
 
