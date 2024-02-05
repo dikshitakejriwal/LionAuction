@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Add Credit Card</title>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <h1>Add a Credit Card</h1>
+
+        <form action="{{ url_for('add_card') }}" method="post">
+
+            <div class="form-group">
+                <label for="creditCardNumber">Credit Card Number</label>
+                <input type="text" class="form-control" id="creditCardNumber" name="credit_card_number" placeholder = "****-****-****-****"required>
+            </div>
+
+            <div class="form-group">
+                <label for="cardType">Card Type</label>
+                <select class="form-control" id="cardType" name="card_type" required>
+                    <option value="">Choose Card Type</option>
+                    <option value="Visa">Visa</option>
+                    <option value="MasterCard">MasterCard</option>
+                    <option value="American Express">American Express</option>
+                    <option value="Discover">Discover</option>
+                </select>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="expireMonth">Expire Month</label>
+                    <input type="number" class="form-control" id="expireMonth" name="expire_month" min="1" max="12" required>
+                </div>
+
+                <div class="form-group col-md-6">
+                    <label for="expireYear">Expire Year</label>
+                    <input type="number" class="form-control" id="expireYear" name="expire_year" min="2023" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="securityCode">Security Code</label>
+                <input type="text" class="form-control" id="securityCode" name="security_code" required>
+            </div>
+            {% with messages = get_flashed_messages(category_filter=['success']) %}
+            {% if messages %}
+            <div class="container">
+                <ul class="list-unstyled alert alert-info">
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endwith %}
+            <input type="submit" class="btn btn-primary" value="Add Credit Card">
+        </form>
+        <a href="{{ url_for('bidder_welcome') }}" class="btn btn-secondary mt-3">Back to Bidder Welcome</a>
+    </div>
+</body>
+</html>

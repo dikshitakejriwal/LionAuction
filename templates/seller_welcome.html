@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='seller_welcome.css')}}">
+    <title>Seller Welcome</title>
+</head>
+<body>
+
+    <body>
+        <h1>Welcome to LionAuction, Seller!</h1>
+        <form action="{{ url_for('change_role') }}" method="post">
+            <div class="dropdown mt-3">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Change Role
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <button class="dropdown-item" type="submit" name="role" value="Bidder">Bidder</button>
+                    <button class="dropdown-item" type="submit" name="role" value="Seller">Seller</button>
+                    <button class="dropdown-item" type="submit" name="role" value="Helpdesk">Helpdesk</button>
+                </div>
+            </div>
+        
+        </form>
+        <ul>
+            <li><a href="{{ url_for('publish_auctions') }}">Publish Auction Listing</a></li>
+            <!-- Edit or take off listing-->
+            <li><a href="{{ url_for('manage_auctions') }}">Manage Auction Listings</a></li>
+            <!-- show all the listing of user by group -->
+            <!-- <li><a href="/categories" class="btn btn-primary mt-3">Browse Categories</a></li> -->
+
+        </ul>
+        <a href="/" class="btn btn-danger mt-4">Logout</a>
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    </body>
+
+   
+</body>
+</html>

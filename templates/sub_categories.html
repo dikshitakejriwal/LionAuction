@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='subcategories.css')}}">
+    <title>{{ category_name }}</title>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>{{ category_name }}</h1>
+        <h2>Shop By Subcategories</h2>
+        <div class="row subcategory-row">
+            {% for subcategory in subcategories %}
+                <div class="col-md-3">
+                    <div class="subcategory-card">
+                        <a href="{{ url_for('sub_categories', category_name=subcategory[1]) }}">{{ subcategory[1] }}</a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <h2>Items</h2>
+        <div class="row item-row">
+            {% for item in items %}
+                <div class="col-md-3">
+                    <div class="item-card">
+                        <a href="{{ url_for('auction_details', category_name=item[2], listing_id=item[1], product_name=item[4], sellers_email=item[0]) }}">{{ item[4] }}</a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+        <div class="mt-4">
+            {% if parent_category == 'Root' %}
+            <a href="{{ url_for('categories') }}" class="btn btn-secondary">Back</a>
+            {% else %}
+            <a href="{{ url_for('sub_categories', category_name = parent_category) }}" class="btn btn-secondary">Back</a>
+            {% endif %}
+            <a href="{{ url_for('categories') }}" class="btn btn-secondary">Back to Categories</a>
+        </div>
+        
+    </div>
+</body>
+</html>

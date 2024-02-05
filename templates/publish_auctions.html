@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Publish Auction Listing</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Publish Auction Listing</h1>
+        <form method="POST" action="{{ url_for('publish_auctions') }}">
+            <div class="form-group">
+                <label for="auction_title">Auction Title:</label>
+                <input type="text" class="form-control" id="auction_title" name="auction_title" required>
+            </div>
+            <div class="form-group">
+                <label for="product_name">Product Name:</label>
+                <input type="text" class="form-control" id="product_name" name="product_name" required>
+            </div>
+            <div class="form-group">
+                <label for="product_description">Product Description:</label>
+                <textarea class="form-control" id="product_description" name="product_description" rows="2" required></textarea>
+            </div>
+            <!-- quantity - number- required -->
+            <div class="form-group">
+                <label for="quantity">Quantity:</label>
+                <input type="number" class="form-control" id="quantity" name="quantity" min="1" required>
+            </div>
+            <!-- reserve: price - should be a real num -->
+            <div class="form-group">
+                <label for="reserve_price">Reserve Price:</label>
+                <input type="number" class="form-control" id="reserve_price" name="reserve_price" step="0.01" required>
+            </div>
+            <!-- max-bid-allowed - number -->
+            <div class="form-group">
+                <label for="max_bids">Max Bids:</label>
+                <input type="number" class="form-control" id="max_bids" name="max_bids" min="1" required>
+            </div>
+            <!-- categories should have all the categories - category_name from the categories table - multiple sel -->
+            <div class="form-group">
+                <label for="categories">Select Category/Categories:</label>
+                <div class="row">
+                    {% for category_name in all_categories_name %}
+                    <div class="col-md-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="categories" id="category-{{ category_name[0] }}" value="{{ category_name[0] }}">
+                            <label class="form-check-label" for="category-{{ category_name[0] }}">
+                            {{ category_name[0] }}
+                            </label>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                <!-- <select name="categories" id="categories" class="form-control" multiple> -->
+                
+                <!-- <select name="categories" id="categories" class="form-control" data-mdb-placeholder="Categories" multiple>
+                    {% for category_name in all_categories_name %}
+                        <option value="{{ category_name[0] }}">{{ category_name[0] }}</option>
+                    {% endfor %}
+                </select> -->
+            </div>
+            <button type="submit" class="btn btn-primary">Publish</button>
+            {% with messages = get_flashed_messages(category_filter=['success']) %}
+            {% if messages %}
+            <div class="container">
+                <ul class="list-unstyled alert alert-info">
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endwith %}
+
+        </form>
+        <a href="{{ url_for('seller_welcome') }}" class="btn btn-secondary">Back to Welcome</a>
+    </div>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+ 
+    <!-- Include the plugin's CSS and JS: -->
+    <script type="text/javascript" src="js/bootstrap-multiselect.js"></script>
+    <script>
+        document.querySelector("form").addEventListener("submit", function(event) {
+          const checkboxes = document.querySelectorAll('input[type="checkbox"][name="categories"]');
+          const checked = Array.from(checkboxes).some(checkbox => checkbox.checked);
+      
+          if (!checked) {
+            event.preventDefault();
+            alert("Please select at least one category.");
+          }
+        });
+    </script>
+      
+</body>
+</html>

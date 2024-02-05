@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bidder_personal_info.css')}}">
+    <title>Personal Information</title>
+
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Personal Information</h1>
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <td>{{ user[1]}} {{user[2]}} </td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td>{{ user[0]}} </td>
+                </tr>
+                <tr>
+                    <th>Age</th>
+                    <td>{{ user[4] }}</td>
+                </tr>
+                <tr>
+                    <th>Gender</th>
+                    <td>{{ user[3] }}</td>
+                </tr>
+                <tr>
+                    <th>Major</th>
+                    <td>{{ user[6] }}</td>
+                </tr>
+                <tr>
+                    <th>Address</th>
+                    <td>
+                        <!-- street number, street name -->
+                        {{ address[2] }} {{ address[3] }}<br> 
+                        <!-- City, State, Zipcode -->
+                        {{ address[5] }}, {{ address[6] }} {{ address[1] }}<br> 
+                    </td>
+                </tr>
+                <tr>
+                    <th>Card Info</th>
+                    {% for card_num in card_nums %}
+                        <td> ****-****-****-{{ card_num[0][-4:] }}</td>
+                    {% endfor %}
+                </tr>
+            
+            </tbody>
+        </table>
+        <a href="/bidder_welcome" class="btn btn-secondary">Go Back!</a>
+    </div>
+</body>
+</html>

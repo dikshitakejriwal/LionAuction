@@ -1,0 +1,700 @@
+Seller_Email,Listing_ID,Category,Auction_Title,Product_Name,Product_Description,Quantity,Reserve_Price,Max_bids,Status
+wspadelli8j@lsu.edu,747,Bakery & Bread,Freshness Guaranteed Steak Rolls,Steak Rolls,Yummy Rolls,5,50.0,3,1
+wspadelli8j@lsu.edu,2513,Bakery & Bread,Freshness Guaranteed Steak Rolls,Steak Rolls,Yummy Rolls,5,50.0,3,1
+dnaughton9f@lsu.edu,741,Basketball,Wilson NCAA Street Shot Outdoor Basketball,"Wilson Basketball 9""",For WNBA and kids,5,145.0,3,1
+dnaughton9f@lsu.edu,2505,Basketball,Wilson NCAA Street Shot Outdoor Basketball,"Wilson Basketball 9""",For WNBA and kids,5,145.0,3,1
+amaccathayam@lsu.edu,786,Bath Robes,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Linen Bathrobe,2,80.0,3,1
+dbarrowcloughlz@lsu.edu,810,Bath Robes,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Brobe,5,200.0,3,1
+lsekulla8w@lsu.edu,849,Bath Robes,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Brobe,4,160.0,3,1
+srubinivitzlu@lsu.edu,870,Bath Robes,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,3,120.0,3,1
+rscampm5@lsu.edu,885,Bath Robes,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,2,80.0,3,1
+onewlindl@lsu.edu,909,Bath Robes,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,3,120.0,4,1
+vcawr7@lsu.edu,915,Bath Robes,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,5,200.0,4,0
+fthunder1p@webs.com,1065,Bath Robes,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Brobe,3,120.0,5,1
+eovenden5y@lsu.edu,1125,Bath Robes,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,5,200.0,4,1
+lthornberbk@lsu.edu,1146,Bath Robes,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,1,40.0,4,1
+clelievre1q@spiegel.de,1401,Bath Robes,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,5,200.0,3,1
+amaccathayam@lsu.edu,2565,Bath Robes,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Linen Bathrobe,2,80.0,3,1
+dbarrowcloughlz@lsu.edu,2597,Bath Robes,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Brobe,5,200.0,3,1
+acazindy@lsu.edu,2,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,1
+dbraffington7n@lsu.edu,31,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+ebromagei6@lsu.edu,44,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,3,1
+rvanderhoeven9h@lsu.edu,61,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+cmabbsdt@lsu.edu,102,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,4,1
+dgoodenoughgs@lsu.edu,104,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,4,1
+tpollock7j@lsu.edu,113,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,4,1
+tandino92@lsu.edu,154,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,4,1
+mtuxell5t@lsu.edu,229,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,5,1
+dbrinkworth7i@lsu.edu,263,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+hreavellhk@lsu.edu,294,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+belfordb@yahoo.co.jp,589,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,6,1
+hmccurts@vinaora.com,855,Beauty Products,Satin and Lace Bathrobe,Lotus SuperProtector Sunscreen,Sunscreen,5,125.0,3,1
+selliker1v@ibm.com,900,Beauty Products,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,4,80.0,4,1
+ccolteneh@lsu.edu,1080,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,5,1
+oflahiveif@lsu.edu,1221,Beauty Products,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,1,20.0,4,1
+hreavellhk@lsu.edu,1242,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,4,1
+bdenevehs@lsu.edu,1272,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+jtestro45@lsu.edu,1332,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+dbrinkworth7i@lsu.edu,1725,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+dgoodenoughgs@lsu.edu,1833,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,2,1
+cmabbsdt@lsu.edu,1993,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+dbraffington7n@lsu.edu,2005,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+tandino92@lsu.edu,2049,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+belfordb@yahoo.co.jp,2141,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+rvanderhoeven9h@lsu.edu,2213,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+ebromagei6@lsu.edu,2265,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,3,1
+mtuxell5t@lsu.edu,2269,Beauty Products,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+hreavellhk@lsu.edu,2313,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+tpollock7j@lsu.edu,2401,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+acazindy@lsu.edu,2417,Beauty Products,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,3,1
+cosgar8u@lsu.edu,777,Beef & Lamb,Beef Ribeye Steak,Ribeye,Ready to Cook Ribeye,4,140.0,3,1
+cosgar8u@lsu.edu,2553,Beef & Lamb,Beef Ribeye Steak,Ribeye,Ready to Cook Ribeye,4,140.0,3,1
+jwooderson5q@lsu.edu,19,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,5,600.0,3,1
+dbarrowcloughlz@lsu.edu,24,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+amarkosn0@lsu.edu,35,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+pslidders4f@lsu.edu,66,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,3,1
+ttremollet2t@lsu.edu,221,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,5,1
+wlaurancegt@lsu.edu,225,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,5,1
+nrideoutmi@lsu.edu,270,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,2,240.0,3,0
+pstartehp@lsu.edu,271,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,2,240.0,3,1
+dbrigstocko2@lsu.edu,353,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,5,600.0,6,1
+tappleton2n@delicious.com,392,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,6,0
+mcrumlyfk@lsu.edu,395,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,5,600.0,6,1
+nrideoutmi@lsu.edu,1605,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,2,240.0,3,1
+wlaurancegt@lsu.edu,1621,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,3,1
+amarkosn0@lsu.edu,1717,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+tappleton2n@delicious.com,1729,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+dbarrowcloughlz@lsu.edu,1737,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+pslidders4f@lsu.edu,1773,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,3,2
+ttremollet2t@lsu.edu,1813,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,2,1
+dbrigstocko2@lsu.edu,1921,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,2,240.0,3,1
+mcrumlyfk@lsu.edu,1929,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,5,600.0,3,1
+jwooderson5q@lsu.edu,2053,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,5,600.0,3,1
+pstartehp@lsu.edu,2189,Bodysuits,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,2,240.0,3,1
+mbernasekrm@lsu.edu,5,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+akelby20@drupal.org,38,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+dparlettkw@lsu.edu,39,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+srubinivitzlu@lsu.edu,51,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+lbyrdgk@lsu.edu,79,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,4,1
+cgabeyeb@lsu.edu,156,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,4,1
+cdiffley5w@lsu.edu,167,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,4,1
+cosgar8u@lsu.edu,185,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,5,1
+mromayniq@lsu.edu,200,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,5,1
+gmackall4z@lsu.edu,236,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,5,1
+qricardoufm@lsu.edu,242,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,5,1
+jjewettjh@lsu.edu,246,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,5,1
+ehaspineallfb@lsu.edu,269,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+naspcu@lsu.edu,282,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+ogajownikly@lsu.edu,284,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+nrideoutmi@lsu.edu,315,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+rburtwistler8@lsu.edu,326,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+abartoszek16@reuters.com,352,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+ccolteneh@lsu.edu,369,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,6,1
+cpaulone4@lsu.edu,981,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,5,1
+cmabbsdt@lsu.edu,1002,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,5,1
+ogajownikly@lsu.edu,1026,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,5,1
+mromayniq@lsu.edu,1137,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,4,1
+abartoszek16@reuters.com,1173,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,4,2
+eparmanpy@lsu.edu,1266,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+predittjv@lsu.edu,1383,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+rpointn@globo.com,1389,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+nrideoutmi@lsu.edu,1601,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+cosgar8u@lsu.edu,1693,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+akelby20@drupal.org,1753,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+lbyrdgk@lsu.edu,1757,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+srubinivitzlu@lsu.edu,1817,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,2,1
+ehaspineallfb@lsu.edu,1865,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+rburtwistler8@lsu.edu,1989,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+cgabeyeb@lsu.edu,2009,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+qricardoufm@lsu.edu,2021,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+ogajownikly@lsu.edu,2025,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+dparlettkw@lsu.edu,2041,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+gmackall4z@lsu.edu,2073,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+ccolteneh@lsu.edu,2097,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,0
+mromayniq@lsu.edu,2173,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+jjewettjh@lsu.edu,2209,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+abartoszek16@reuters.com,2221,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+cdiffley5w@lsu.edu,2245,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+naspcu@lsu.edu,2253,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+mbernasekrm@lsu.edu,2409,Brushes & Applicators,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,2,30.0,3,1
+wlaurancegt@lsu.edu,723,Cat Dry Food,Meow Mix Original Choice Dry Cat Food,MM OC Dry Cat Food,Healthy and Yummy,4,200.0,6,1
+wlaurancegt@lsu.edu,2481,Cat Dry Food,Meow Mix Original Choice Dry Cat Food,MM OC Dry Cat Food,Healthy and Yummy,4,200.0,3,1
+bstrangeri3@lsu.edu,4,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+tgettonei8@lsu.edu,9,Cell Phones,Samsung Galaxy,S22,Powerful Android,1,850.0,3,1
+nheckjx@lsu.edu,46,Cell Phones,Samsung Galaxy,S22,Powerful Android,1,850.0,3,1
+atorrejon3c@lsu.edu,52,Cell Phones,Samsung Galaxy,S22,Powerful Android,3,2550.0,3,1
+cdutnallr1@lsu.edu,53,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+adebellis2@mit.edu,59,Cell Phones,Samsung Galaxy,S22,Powerful Android,1,850.0,3,1
+gmackall4z@lsu.edu,83,Cell Phones,Samsung Galaxy,S22,Powerful Android,5,4250.0,4,1
+gcordall73@lsu.edu,89,Cell Phones,Samsung Galaxy,S22,Powerful Android,3,2550.0,4,1
+whasnney2b@biblegateway.com,111,Cell Phones,iPhone,13 Pro Max,New iPhone Model,3,3300.0,4,1
+wlaurancegt@lsu.edu,124,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,4,1
+zcowl7l@lsu.edu,174,Cell Phones,Samsung Galaxy,S22,Powerful Android,2,1700.0,5,1
+ituppm2@lsu.edu,175,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,5,1
+jtestro45@lsu.edu,183,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,5,1
+avenablesi@salon.com,187,Cell Phones,Samsung Galaxy,S22,Powerful Android,2,1700.0,5,1
+hjehaes86@lsu.edu,209,Cell Phones,iPhone,13 Pro Max,New iPhone Model,3,3300.0,5,1
+oflahiveif@lsu.edu,245,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,5,0
+rbuchankl@lsu.edu,249,Cell Phones,iPhone,13 Pro Max,New iPhone Model,2,2200.0,5,1
+mromayniq@lsu.edu,261,Cell Phones,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+cceaser3h@lsu.edu,276,Cell Phones,iPhone,13 Pro Max,New iPhone Model,2,2200.0,3,1
+gdowtry4j@lsu.edu,292,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+glibbie7q@lsu.edu,297,Cell Phones,Samsung Galaxy,S22,Powerful Android,4,3400.0,3,1
+jkruszelnickik3@lsu.edu,312,Cell Phones,Samsung Galaxy,S22,Powerful Android,4,3400.0,3,1
+tkorting48@lsu.edu,323,Cell Phones,Samsung Galaxy,S22,Powerful Android,5,4250.0,3,1
+bdenevehs@lsu.edu,381,Cell Phones,Samsung Galaxy,S22,Powerful Android,4,3400.0,6,1
+lstuddeard7r@lsu.edu,384,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,6,1
+jcarvil9@economist.com,396,Cell Phones,Samsung Galaxy,S22,Powerful Android,1,850.0,6,1
+wlaurancegt@lsu.edu,1617,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+gdowtry4j@lsu.edu,1661,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+bstrangeri3@lsu.edu,1709,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+gcordall73@lsu.edu,1733,Cell Phones,Samsung Galaxy,S23,Powerful Android,3,2550.0,3,1
+nheckjx@lsu.edu,1741,Cell Phones,Samsung Galaxy,S23,Powerful Android,1,850.0,3,1
+zcowl7l@lsu.edu,1765,Cell Phones,Samsung Galaxy,S23,Powerful Android,2,1700.0,3,1
+avenablesi@salon.com,1781,Cell Phones,Samsung Galaxy,S23,Powerful Android,2,1700.0,2,1
+atorrejon3c@lsu.edu,1793,Cell Phones,Samsung Galaxy,S23,Powerful Android,1,850.0,2,1
+tkorting48@lsu.edu,1845,Cell Phones,Samsung Galaxy,S23,Powerful Android,5,4250.0,3,1
+glibbie7q@lsu.edu,1889,Cell Phones,Samsung Galaxy,S23,Powerful Android,4,3400.0,3,1
+jcarvil9@economist.com,1937,Cell Phones,Samsung Galaxy,S23,Powerful Android,1,850.0,3,1
+lstuddeard7r@lsu.edu,1985,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+gmackall4z@lsu.edu,2069,Cell Phones,Samsung Galaxy,S23,Powerful Android,5,4250.0,3,1
+ituppm2@lsu.edu,2125,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+whasnney2b@biblegateway.com,2161,Cell Phones,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+mromayniq@lsu.edu,2169,Cell Phones,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+adebellis2@mit.edu,2233,Cell Phones,Samsung Galaxy,S23,Powerful Android,1,850.0,3,1
+rbuchankl@lsu.edu,2237,Cell Phones,iPhone,13 Pro Max,New iPhone Model,2,2200.0,3,1
+hjehaes86@lsu.edu,2277,Cell Phones,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+jkruszelnickik3@lsu.edu,2281,Cell Phones,Samsung Galaxy,S23,Powerful Android,4,3400.0,3,1
+oflahiveif@lsu.edu,2289,Cell Phones,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+cdutnallr1@lsu.edu,2305,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+bdenevehs@lsu.edu,2353,Cell Phones,Samsung Galaxy,S22,Powerful Android,4,3400.0,3,1
+cceaser3h@lsu.edu,2361,Cell Phones,iPhone,13 Pro Max,New iPhone Model,2,2200.0,3,1
+tgettonei8@lsu.edu,2381,Cell Phones,Samsung Galaxy,S23,Powerful Android,1,850.0,3,1
+jtestro45@lsu.edu,2433,Cell Phones,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+feeles4r@lsu.edu,10,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,3,1
+tlinebargerh@flickr.com,15,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,3,1
+bbartkowiak6t@lsu.edu,33,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+wlaurancegt@lsu.edu,91,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,4,1
+lsekulla8w@lsu.edu,95,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,4,1
+ghalvorsen95@lsu.edu,106,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,3,270.0,4,1
+pboundey37@lsu.edu,115,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,4,1
+dgurge15@jimdo.com,126,Clothing,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,1,110.0,4,1
+rscampm5@lsu.edu,157,Clothing,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,4,440.0,4,1
+gpendry79@lsu.edu,169,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,4,1
+gescalanteg4@lsu.edu,186,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,5,1
+selliker1v@ibm.com,188,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,5,0
+jboultwoodre@lsu.edu,198,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,5,0
+pkirklandrq@lsu.edu,214,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,5,1
+predittjv@lsu.edu,251,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,5,1
+kperle7k@lsu.edu,256,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,5,1
+vrissonh@lsu.edu,259,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+jgarrood8v@lsu.edu,265,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+ihannondki@lsu.edu,288,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+ebullardig@lsu.edu,291,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,3,270.0,3,1
+bspottiswoodhm@lsu.edu,300,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+bmalbonee@lsu.edu,339,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+rkorneichikbg@lsu.edu,340,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+cpaulone4@lsu.edu,343,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+wspadelli8j@lsu.edu,355,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,6,1
+gmosconegr@lsu.edu,358,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,6,1
+asimonsen7z@lsu.edu,394,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,6,1
+bdeavenell7o@lsu.edu,399,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,2,180.0,6,1
+gcordall73@lsu.edu,807,Clothing,leather,Ankle-length Leather Pants,Leather pants,4,120.0,3,1
+lbyrdgk@lsu.edu,825,Clothing,leather,Ankle-length Leather Pants,Leather pants,3,90.0,3,1
+ttremollet2t@lsu.edu,867,Clothing,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,1,40.0,3,1
+tkorting48@lsu.edu,891,Clothing,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,3,120.0,3,1
+jcarvil9@economist.com,960,Clothing,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,2,60.0,4,1
+dparlettkw@lsu.edu,1038,Clothing,leather,Ankle-length Leather Pants,Leather pants,4,120.0,5,1
+tandino92@lsu.edu,1044,Clothing,leather,Ankle-length Leather Pants,Leather pants,1,30.0,5,1
+jwooderson5q@lsu.edu,1047,Clothing,leather,Ankle-length Leather Pants,Leather pants,1,30.0,5,1
+fstodartdu@lsu.edu,1053,Clothing,leather,Ankle-length Leather Pants,Leather pants,5,150.0,5,1
+gescalanteg4@lsu.edu,1056,Clothing,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,2,80.0,5,1
+oflahiveif@lsu.edu,1227,Clothing,skinny,Skinny High Jeans,Men's Jeans,4,120.0,4,1
+cdullardbp@lsu.edu,1254,Clothing,skinny,Skinny High Jeans,Men's Jeans,4,120.0,3,1
+tlinebargerh@flickr.com,1329,Clothing,skinny,Skinny High Jeans,Men's Jeans,2,60.0,3,1
+wfranzenct@lsu.edu,1338,Clothing,skinny,Skinny High Jeans,Men's Jeans,2,60.0,3,1
+rdichee@adobe.com,1371,Clothing,skinny,Skinny High Jeans,Men's Jeans,2,60.0,3,1
+dnaughton9f@lsu.edu,1386,Clothing,skinny,Skinny High Jeans,Men's Jeans,1,30.0,3,1
+wlaurancegt@lsu.edu,1613,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,3,1
+ghalvorsen95@lsu.edu,1633,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,3,1
+predittjv@lsu.edu,1641,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,2,180.0,3,1
+wspadelli8j@lsu.edu,1657,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+bdeavenell7o@lsu.edu,1701,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,3,1
+bbartkowiak6t@lsu.edu,1713,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+bspottiswoodhm@lsu.edu,1745,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+gmosconegr@lsu.edu,1749,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,3,1
+asimonsen7z@lsu.edu,1769,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,3,0
+lsekulla8w@lsu.edu,1789,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,1,90.0,2,1
+ihannondki@lsu.edu,1825,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,4,480.0,2,1
+rscampm5@lsu.edu,1837,Clothing,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,4,440.0,2,1
+selliker1v@ibm.com,1857,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,3,270.0,3,1
+jboultwoodre@lsu.edu,1941,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+pkirklandrq@lsu.edu,1949,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+rkorneichikbg@lsu.edu,1953,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+kperle7k@lsu.edu,1961,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+cpaulone4@lsu.edu,1965,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+feeles4r@lsu.edu,1977,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,2,180.0,3,1
+bmalbonee@lsu.edu,2001,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+jgarrood8v@lsu.edu,2057,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,0
+gescalanteg4@lsu.edu,2065,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,3,0
+vrissonh@lsu.edu,2113,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,4,360.0,3,1
+ebullardig@lsu.edu,2133,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,3,270.0,3,1
+dgurge15@jimdo.com,2137,Clothing,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,1,110.0,3,1
+pboundey37@lsu.edu,2341,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+gpendry79@lsu.edu,2385,Clothing,short skirts,Selby Mini Skirt,short skirts - Classic,5,450.0,3,1
+tlinebargerh@flickr.com,2425,Clothing,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,3,1
+gcordall73@lsu.edu,2593,Clothing,leather,Ankle-length Leather Pants,Leather pants,4,120.0,3,1
+gdowtry4j@lsu.edu,753,Cookies & Brownies,Marketside Bite Sized White Chocolate Macadamia Nut Cookies,Mac Nut Cookies,Delish Cookies,4,20.0,3,1
+gdowtry4j@lsu.edu,2521,Cookies & Brownies,Marketside Bite Sized White Chocolate Macadamia Nut Cookies,Mac Nut Cookies,Delish Cookies,4,20.0,3,1
+wspadelli8j@lsu.edu,29,Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+spinwillhg@lsu.edu,45,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+jspraggon8f@lsu.edu,76,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,4,1
+wsemechikci@lsu.edu,112,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,2,70.0,4,1
+fthunder1p@webs.com,119,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,4,1
+hbintonme@lsu.edu,136,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,4,1
+rstanwixm3@lsu.edu,145,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,4,1
+ofumagalliqv@lsu.edu,193,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,2,70.0,5,2
+ndutchburnel@lsu.edu,317,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+dairthno@lsu.edu,319,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+itompkinson28@pcworld.com,373,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,6,1
+rgoulbornegn@lsu.edu,499,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,6,1
+ndutchburnel@lsu.edu,1609,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+wspadelli8j@lsu.edu,1653,Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+jspraggon8f@lsu.edu,1669,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,3,1
+spinwillhg@lsu.edu,1677,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+ofumagalliqv@lsu.edu,1805,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,2,70.0,2,1
+wsemechikci@lsu.edu,1809,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,2,70.0,2,1
+rstanwixm3@lsu.edu,1861,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,3,105.0,3,1
+rgoulbornegn@lsu.edu,1909,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,3,1
+fthunder1p@webs.com,2077,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+itompkinson28@pcworld.com,2105,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+dairthno@lsu.edu,2257,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,3,105.0,3,2
+hbintonme@lsu.edu,2413,Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,3,105.0,3,1
+ghalvorsen95@lsu.edu,732,Dog Wet Food,Blue Buffalo Tastefuls Salmon Pate Wet Cat Food for Adult Cats,BB TSP Wet Cat Food,Healthy and Yummy,3,177.0,3,1
+ghalvorsen95@lsu.edu,2493,Dog Wet Food,Blue Buffalo Tastefuls Salmon Pate Wet Cat Food for Adult Cats,BB TSP Wet Cat Food,Healthy and Yummy,3,177.0,3,1
+wspadelli8j@lsu.edu,750,Electric,GlareWheel EB-NTEC1 Green Commuting Electric Bike/Scooter,GW Electric Scooter,Economical ,3,297.0,3,1
+wspadelli8j@lsu.edu,2517,Electric,GlareWheel EB-NTEC1 Green Commuting Electric Bike/Scooter,GW Electric Scooter,Economical ,3,297.0,3,2
+vcawr7@lsu.edu,161,Electrical Supplies,iPhone,13 Pro Max,New iPhone Model,1,1100.0,4,1
+ccaldeiropf@lsu.edu,244,Electrical Supplies,iPhone,13 Pro Max,New iPhone Model,1,1100.0,5,1
+dabelson7x@lsu.edu,363,Electrical Supplies,Samsung Galaxy,S22,Powerful Android,5,4250.0,6,2
+eovenden5y@lsu.edu,378,Electrical Supplies,iPhone,13 Pro Max,New iPhone Model,1,1100.0,6,1
+amarkosn0@lsu.edu,795,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,2,458.0,3,1
+bspottiswoodhm@lsu.edu,816,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,3,687.0,3,1
+mlempertz10@yandex.ru,828,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,1,229.0,3,1
+avenablesi@salon.com,843,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,4,916.0,3,1
+wsemechikci@lsu.edu,864,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,5,1145.0,3,2
+dgoodenoughgs@lsu.edu,882,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,1,229.0,3,1
+kkiesselhe@lsu.edu,888,Electrical Supplies,Apple Watch Series 6,AW S6,Smart Watch,5,1445.0,3,1
+rstanwixm3@lsu.edu,903,Electrical Supplies,Apple Watch Series 6,AW S6,Smart Watch,1,289.0,4,1
+ehaspineallfb@lsu.edu,906,Electrical Supplies,Apple Watch Series 6,AW S6,Smart Watch,3,867.0,4,1
+glibbie7q@lsu.edu,918,Electrical Supplies,Apple Watch Series 6,AW S6,Smart Watch,2,578.0,4,1
+emillhill6q@lsu.edu,927,Electrical Supplies,Apple Watch Series 6,AW S6,Smart Watch,1,289.0,4,2
+mfairhamf0@lsu.edu,933,Electrical Supplies,Apple Watch Series 7,AW S7,Smart Watch,2,840.0,4,1
+jcory4w@lsu.edu,966,Electrical Supplies,Apple Watch Series 7,AW S7,Smart Watch,2,840.0,4,1
+feeles4r@lsu.edu,990,Electrical Supplies,Apple Watch Series 7,AW S7,Smart Watch,4,1680.0,5,1
+lstuddeard7r@lsu.edu,996,Electrical Supplies,AirPods,AirPods pro,Wireless earphones,5,995.0,5,1
+rburtwistler8@lsu.edu,999,Electrical Supplies,AirPods,AirPods pro,Wireless earphones,2,398.0,5,2
+bmalbonee@lsu.edu,1008,Electrical Supplies,AirPods,AirPods pro,Wireless earphones,1,199.0,5,1
+ccaldeiropf@lsu.edu,1032,Electrical Supplies,AirPods,AirPods pro,Wireless earphones,2,398.0,5,1
+kmusslewhitedp@lsu.edu,1035,Electrical Supplies,AirPods,AirPods max,Wireless earphones,1,250.0,5,1
+edionisiih1@lsu.edu,1071,Electrical Supplies,AirPods,AirPods max,Wireless earphones,4,1000.0,5,1
+vconquest69@lsu.edu,1104,Electrical Supplies,AirPods,AirPods max,Wireless earphones,4,1000.0,4,1
+ebullardig@lsu.edu,1107,Electrical Supplies,AirPods,AirPods max,Wireless earphones,5,1250.0,4,1
+whasnney2b@biblegateway.com,1128,Electrical Supplies,AirPods,AirPods max,Wireless earphones,1,250.0,4,1
+mromayniq@lsu.edu,1134,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,4,1
+pstartehp@lsu.edu,1149,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,2,1500.0,4,1
+tizzatt4e@lsu.edu,1170,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,4,1
+ctelezhking7@lsu.edu,1176,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,2,1500.0,4,2
+dairthno@lsu.edu,1200,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,2,1500.0,4,1
+jthwaite4l@lsu.edu,1203,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,4,1
+ebromagei6@lsu.edu,1206,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,3,2250.0,4,1
+mtuxell5t@lsu.edu,1209,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,4,1
+ikneesha3v@lsu.edu,1233,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,2,1500.0,4,1
+cfridpm@lsu.edu,1257,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,3,1
+mamymo@lsu.edu,1260,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,3,1
+pboundey37@lsu.edu,1263,Electrical Supplies,"Samsung - 75"" Class 8000 Series LED 4K UHD Smart Tizen TV",Samsung Tizen,Smart TV,1,750.0,3,1
+pclampettfg@lsu.edu,1269,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,1,550.0,3,1
+gearngycp@lsu.edu,1290,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,2,1100.0,3,1
+tgettonei8@lsu.edu,1293,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,2,1100.0,3,1
+gpendry79@lsu.edu,1296,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,2,1100.0,3,1
+kwilcockesfx@lsu.edu,1299,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,2,1100.0,3,1
+kwilcockesfx@lsu.edu,1302,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,3,1650.0,3,1
+slittledike1a@dyndns.org,1305,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,3,1650.0,3,1
+rdellenbroker6c@lsu.edu,1311,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,3,1650.0,3,1
+ltortispi@lsu.edu,1335,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,1,550.0,3,1
+ecortingq@lsu.edu,1347,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,1,550.0,3,1
+ecortingq@lsu.edu,1350,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,3,1650.0,3,1
+nrideoutmi@lsu.edu,1353,Electrical Supplies,"Insignia? - 65"" Class F30 Series LED 4K UHD Smart Fire TV",Insignia Fire,Smart TV,2,1100.0,3,1
+wlaurancegt@lsu.edu,1368,Electrical Supplies,"LG - 55"" Class NanoCell 90 Series LED 4K UHD Smart webOS TV",LG Nanocell,Smart TV,2,798.0,3,1
+jspraggon8f@lsu.edu,1404,Electrical Supplies,"LG - 55"" Class NanoCell 90 Series LED 4K UHD Smart webOS TV",LG Nanocell,Smart TV,2,798.0,3,1
+jkasman1i@histats.com,1407,Electrical Supplies,"LG - 55"" Class NanoCell 90 Series LED 4K UHD Smart webOS TV",LG Nanocell,Smart TV,1,399.0,3,1
+vcawr7@lsu.edu,1877,Electrical Supplies,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+ccaldeiropf@lsu.edu,2033,Electrical Supplies,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+dabelson7x@lsu.edu,2117,Electrical Supplies,Samsung Galaxy,S23,Powerful Android,5,4250.0,3,2
+eovenden5y@lsu.edu,2157,Electrical Supplies,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+amarkosn0@lsu.edu,2577,Electrical Supplies,Apple Watch SE,AW SE,Smart Watch,2,458.0,3,1
+jkasman1i@histats.com,762,Exercise & Fitness,Costway Boxing Punching Bag w/Height Adjustable Stand Boxing Gloves,CB Punching Bag and Gloves,Game on!,4,1120.0,3,1
+jkasman1i@histats.com,2533,Exercise & Fitness,Costway Boxing Punching Bag w/Height Adjustable Stand Boxing Gloves,CB Punching Bag and Gloves,Game on!,4,1120.0,3,1
+bdeavenell7o@lsu.edu,783,Face,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,1,25.0,3,1
+tappleton2n@delicious.com,804,Face,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,2,50.0,3,1
+gmosconegr@lsu.edu,819,Face,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,3,75.0,3,1
+pslidders4f@lsu.edu,837,Face,Satin and Lace Bathrobe,Lotus SuperProtector Sunscreen,Sunscreen,4,100.0,3,1
+atorrejon3c@lsu.edu,852,Face,Waffled Bathrobe,Lotus SuperProtector Sunscreen,Sunscreen,5,125.0,3,1
+ihannondki@lsu.edu,876,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,3,60.0,3,1
+rcayton5r@lsu.edu,897,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,5,100.0,4,1
+hleroy7s@lsu.edu,945,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,2,40.0,4,1
+dbrigstocko2@lsu.edu,948,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,3,60.0,4,1
+jcarvil9@economist.com,957,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,4,80.0,4,1
+rkorneichikbg@lsu.edu,972,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,1,20.0,4,1
+lcuffehv@lsu.edu,1089,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,5,100.0,4,1
+jberntjd@lsu.edu,1098,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,5,100.0,4,1
+abithellon@lsu.edu,1188,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,4,80.0,4,1
+cpennettalf@lsu.edu,1248,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,1,20.0,3,2
+zcornillibb@lsu.edu,1287,Face,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,2,40.0,3,1
+tpollock7j@lsu.edu,1308,Face,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,4,100.0,3,1
+bdeavenell7o@lsu.edu,2561,Face,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,1,25.0,3,1
+tappleton2n@delicious.com,2589,Face,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,2,50.0,3,1
+kfeeney30@lsu.edu,771,Grocery,Farmland Fully Cooked Diced Ham,Diced Ham,Fully Cooked Ham,1,12.0,3,1
+kfeeney30@lsu.edu,2545,Grocery,Farmland Fully Cooked Diced Ham,Diced Ham,Fully Cooked Ham,1,12.0,3,2
+nrideoutmi@lsu.edu,711,Health Care,Luden's Deliciously Soothing Throat Drops,Luden's Throat Drops,Soothing,5,10.0,6,1
+nrideoutmi@lsu.edu,2465,Health Care,Luden's Deliciously Soothing Throat Drops,Luden's Throat Drops,Soothing,5,10.0,3,1
+gnorecb@lsu.edu,936,High Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,3,240.0,4,1
+rgoulbornegn@lsu.edu,939,High Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,2,160.0,4,1
+pkirklandrq@lsu.edu,969,High Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,3,240.0,4,1
+bmaclaverty2v@lsu.edu,993,High Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,1,80.0,5,1
+cmaxted8c@lsu.edu,768,Indoor & Live Plants,Zen Peace Lily Plant - Spathyphyllium - Great House Plant,Lily Plant,House Plant,3,36.0,3,1
+cmaxted8c@lsu.edu,2541,Indoor & Live Plants,Zen Peace Lily Plant - Spathyphyllium - Great House Plant,Lily Plant,House Plant,3,36.0,3,1
+mamymo@lsu.edu,16,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,2
+oflahiveif@lsu.edu,55,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+oreppaportr0@lsu.edu,57,Iphone,iPhone,13 Pro Max,New iPhone Model,1,1100.0,3,1
+glibbie7q@lsu.edu,77,Iphone,iPhone,13 Pro Max,New iPhone Model,4,4400.0,4,1
+oflahiveif@lsu.edu,90,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,4,1
+shaydones@lsu.edu,132,Iphone,iPhone,13 Pro Max,New iPhone Model,4,4400.0,4,1
+jcarvil9@economist.com,199,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,5,1
+lcootesj9@lsu.edu,223,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,5,1
+dnaughton9f@lsu.edu,260,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+mfairhamf0@lsu.edu,299,Iphone,iPhone,13 Pro Max,New iPhone Model,2,2200.0,3,1
+mlempertz10@yandex.ru,376,Iphone,iPhone,13 Pro Max,New iPhone Model,4,4400.0,6,1
+abithellon@lsu.edu,391,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,6,1
+mromayniq@lsu.edu,625,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,6,1
+dnaughton9f@lsu.edu,1645,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+mlempertz10@yandex.ru,1761,Iphone,iPhone,13 Pro Max,New iPhone Model,4,4400.0,3,1
+glibbie7q@lsu.edu,1885,Iphone,iPhone,13 Pro Max,New iPhone Model,4,4400.0,3,1
+mfairhamf0@lsu.edu,1901,Iphone,iPhone,13 Pro Max,New iPhone Model,2,2200.0,3,1
+jcarvil9@economist.com,1933,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+oreppaportr0@lsu.edu,2029,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+lcootesj9@lsu.edu,2089,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+mromayniq@lsu.edu,2165,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+shaydones@lsu.edu,2201,Iphone,iPhone,13 Pro Max,New iPhone Model,4,4400.0,3,1
+abithellon@lsu.edu,2241,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+oflahiveif@lsu.edu,2285,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+oflahiveif@lsu.edu,2293,Iphone,iPhone,13 Pro Max,New iPhone Model,5,5500.0,3,1
+mamymo@lsu.edu,2337,Iphone,iPhone,13 Pro Max,New iPhone Model,3,3300.0,3,1
+ndutchburnel@lsu.edu,714,Kidkraft Bancroft Wooden Playhouse,Kid Kraft WP,KK BC Wooden Playhouse,Kid's toys,2,160.0,6,1
+ndutchburnel@lsu.edu,2469,Kidkraft Bancroft Wooden Playhouse,Kid Kraft WP,KK BC Wooden Playhouse,Kid's toys,2,160.0,3,1
+strenamanhu@lsu.edu,11,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+ltortispi@lsu.edu,17,Kitchen & Appliances,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+psarfat78@lsu.edu,63,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,3,1
+mickowics63@lsu.edu,103,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,4,200.0,4,1
+cpennettalf@lsu.edu,131,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,4,1
+iciobotarujm@lsu.edu,158,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,4,1
+bparkenl7@lsu.edu,231,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,5,1
+mbuesdennk@lsu.edu,253,Kitchen & Appliances,Double boiler insert,Double boiler insert_for_all,Boiler,2,70.0,5,2
+fjacquemypl@lsu.edu,316,Kitchen & Appliances,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,3,1
+cmcallof@lsu.edu,846,Kitchen & Appliances,"Wall cabinet w glass door/2 drawers, white/Torhamn ash",Ikea WC - White,Cabinets,1,80.0,3,1
+jboultwoodre@lsu.edu,963,Kitchen & Appliances,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,3,240.0,4,1
+fdeans6l@lsu.edu,1005,Kitchen & Appliances,"Sink, black quartz composite",Black quartz Sink,Sinks,1,99.0,5,1
+cgabeyeb@lsu.edu,1014,Kitchen & Appliances,"Sink, black quartz composite",Black quartz Sink,Sinks,5,495.0,5,1
+dlawteye2@lsu.edu,1017,Kitchen & Appliances,"Sink, black quartz composite",Black quartz Sink,Sinks,5,495.0,5,1
+msprackling43@lsu.edu,1041,Kitchen & Appliances,"Sink, black quartz composite",Black quartz Sink,Sinks,3,297.0,5,1
+gmackall4z@lsu.edu,1062,Kitchen & Appliances,"Sink, black quartz composite",Black quartz Sink,Sinks,2,198.0,5,2
+dgurge15@jimdo.com,1110,Kitchen & Appliances,"Apron front sink, white",White Apron Sink,Sinks,1,99.0,4,1
+eorrick96@lsu.edu,1116,Kitchen & Appliances,"Apron front sink, white",White Apron Sink,Sinks,1,99.0,4,1
+gechalieh4@lsu.edu,1152,Kitchen & Appliances,"Apron front sink, white",White Apron Sink,Sinks,5,495.0,4,1
+shaydones@lsu.edu,1158,Kitchen & Appliances,"Apron front sink, white",White Apron Sink,Sinks,3,297.0,4,1
+lcicchinellib5@lsu.edu,1161,Kitchen & Appliances,"Apron front sink, white",White Apron Sink,Sinks,2,198.0,4,1
+elyfecx@lsu.edu,1179,Kitchen & Appliances,Double bowl top mount sink,Top Mount Sink,Sinks,4,396.0,4,1
+cdiffley5w@lsu.edu,1191,Kitchen & Appliances,Double bowl top mount sink,Top Mount Sink,Sinks,1,99.0,4,1
+nscougallba@lsu.edu,1194,Kitchen & Appliances,Double bowl top mount sink,Top Mount Sink,Sinks,1,99.0,4,0
+hjehaes86@lsu.edu,1215,Kitchen & Appliances,Double bowl top mount sink,Top Mount Sink,Sinks,5,495.0,4,1
+kbennike0@merriam-webster.com,1230,Kitchen & Appliances,Double bowl top mount sink,Top Mount Sink,Sinks,4,396.0,4,1
+mbuddenqw@lsu.edu,1275,Kitchen & Appliances,Kitchen faucet with handspray,KF with HS,Faucets,1,380.0,3,1
+tlinebargerh@flickr.com,1326,Kitchen & Appliances,Kitchen faucet with handspray,KF with HS,Faucets,1,380.0,3,2
+wfranzenct@lsu.edu,1341,Kitchen & Appliances,Dual control kitchen faucet,DCKF,Faucets,1,240.0,3,1
+wlaurancegt@lsu.edu,1362,Kitchen & Appliances,Dual control kitchen faucet,DCKF,Faucets,3,720.0,3,1
+ghalvorsen95@lsu.edu,1380,Kitchen & Appliances,Dual control kitchen faucet,DCKF,Faucets,4,960.0,3,1
+wspadelli8j@lsu.edu,1392,Kitchen & Appliances,Kitchen faucet w sensor,KF with Sensor,Faucets,4,2400.0,3,1
+mbuesdennk@lsu.edu,1849,Kitchen & Appliances,Double boiler insert,Double boiler insert_for_all,Boiler,2,70.0,3,1
+iciobotarujm@lsu.edu,1897,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+mickowics63@lsu.edu,2017,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,4,200.0,3,1
+fjacquemypl@lsu.edu,2081,Kitchen & Appliances,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,3,1
+bparkenl7@lsu.edu,2101,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,3,1
+psarfat78@lsu.edu,2149,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+cpennettalf@lsu.edu,2321,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+strenamanhu@lsu.edu,2365,Kitchen & Appliances,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+ltortispi@lsu.edu,2437,Kitchen & Appliances,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+rdichee@adobe.com,6,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,3,105.0,3,1
+eparmanpy@lsu.edu,13,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,4,200.0,3,1
+eswanbourneq0@lsu.edu,43,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+fcapronqr@lsu.edu,48,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+mashling8s@lsu.edu,70,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+msprackling43@lsu.edu,92,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,4,1
+hmccurts@vinaora.com,93,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,4,1
+rwomack49@lsu.edu,108,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,4,1
+tdairtonp8@lsu.edu,140,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,4,1
+lcuffehv@lsu.edu,168,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,4,1
+wfranzenct@lsu.edu,180,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,5,1
+kfeeney30@lsu.edu,215,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,5,2
+bspencleyka@lsu.edu,217,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,5,1
+gdeblaseer@lsu.edu,218,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,5,1
+kkiesselhe@lsu.edu,224,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,5,1
+hcapellee6@lsu.edu,237,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,5,1
+slittledike1a@dyndns.org,254,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,5,1
+tlinebargerh@flickr.com,278,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+eorrick96@lsu.edu,289,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,3,1
+pbortolazziol@lsu.edu,331,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+gnorecb@lsu.edu,699,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,6,1
+rdichee@adobe.com,1625,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,3,105.0,3,2
+kfeeney30@lsu.edu,1685,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+hmccurts@vinaora.com,1797,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,2,1
+kkiesselhe@lsu.edu,1841,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+gdeblaseer@lsu.edu,1873,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+gnorecb@lsu.edu,1905,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+bspencleyka@lsu.edu,1913,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,2
+tdairtonp8@lsu.edu,1973,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+msprackling43@lsu.edu,2045,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+mashling8s@lsu.edu,2093,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+lcuffehv@lsu.edu,2109,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+eorrick96@lsu.edu,2145,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+rwomack49@lsu.edu,2153,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,5,175.0,3,1
+fcapronqr@lsu.edu,2177,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+eswanbourneq0@lsu.edu,2197,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,1,35.0,3,1
+hcapellee6@lsu.edu,2309,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+eparmanpy@lsu.edu,2345,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,4,200.0,3,2
+pbortolazziol@lsu.edu,2369,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+slittledike1a@dyndns.org,2397,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,3,1
+tlinebargerh@flickr.com,2421,Kitchen & Cooking Accessories,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+wfranzenct@lsu.edu,2445,Kitchen & Cooking Accessories,Double boiler insert,Double boiler insert_for_all,Boiler,4,140.0,3,1
+dbrinkworth7i@lsu.edu,801,Kitchen Cabinets,"Wall cabinet with 2 doors30x15x40 """,Ikea WC - 2 doors,Cabinets,2,160.0,3,1
+asimonsen7z@lsu.edu,834,Kitchen Cabinets,"Wall cabinet w glass door/2 drawers, white/Torhamn ash",Ikea WC - White,Cabinets,3,240.0,3,1
+awillderjq@lsu.edu,840,Kitchen Cabinets,"Wall cabinet w glass door/2 drawers, white/Torhamn ash",Ikea WC - White,Cabinets,5,400.0,3,1
+iciobotarujm@lsu.edu,930,Kitchen Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,4,320.0,4,1
+mcrumlyfk@lsu.edu,954,Kitchen Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,4,320.0,4,1
+kperle7k@lsu.edu,978,Kitchen Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,2,160.0,5,1
+tdairtonp8@lsu.edu,987,Kitchen Cabinets,"High cabinet with shelves/2 doors, white/Hggeby white",Ikea WC - Haggeby White,Cabinets,2,160.0,5,1
+dbrinkworth7i@lsu.edu,2585,Kitchen Cabinets,"Wall cabinet with 2 doors30x15x40 """,Ikea WC - 2 doors,Cabinets,2,160.0,3,1
+dbraffington7n@lsu.edu,1011,Kitchen Faucets & Sinks,"Sink, black quartz composite",Black quartz Sink,Sinks,1,99.0,5,1
+mickowics63@lsu.edu,1020,Kitchen Faucets & Sinks,"Sink, black quartz composite",Black quartz Sink,Sinks,4,396.0,5,1
+dabelson7x@lsu.edu,1095,Kitchen Faucets & Sinks,"Sink, black quartz composite",Black quartz Sink,Sinks,1,99.0,4,1
+fcapronqr@lsu.edu,1140,Kitchen Faucets & Sinks,"Apron front sink, white",White Apron Sink,Sinks,3,297.0,4,1
+lmcmanusmc@lsu.edu,1143,Kitchen Faucets & Sinks,"Apron front sink, white",White Apron Sink,Sinks,4,396.0,4,1
+jjewettjh@lsu.edu,1164,Kitchen Faucets & Sinks,"Apron front sink, white",White Apron Sink,Sinks,5,495.0,4,1
+naspcu@lsu.edu,1197,Kitchen Faucets & Sinks,Double bowl top mount sink,Top Mount Sink,Sinks,3,297.0,4,1
+ahaskerjg@lsu.edu,1251,Kitchen Faucets & Sinks,Kitchen faucet with handspray,KF with HS,Faucets,2,760.0,3,2
+mbernasekrm@lsu.edu,1314,Kitchen Faucets & Sinks,Kitchen faucet with handspray,KF with HS,Faucets,1,380.0,3,1
+tlinebargerh@flickr.com,1323,Kitchen Faucets & Sinks,Kitchen faucet with handspray,KF with HS,Faucets,1,380.0,3,1
+nrideoutmi@lsu.edu,1356,Kitchen Faucets & Sinks,Dual control kitchen faucet,DCKF,Faucets,2,480.0,3,1
+ndutchburnel@lsu.edu,1359,Kitchen Faucets & Sinks,Dual control kitchen faucet,DCKF,Faucets,2,480.0,3,1
+dmccritchiej3@lsu.edu,1374,Kitchen Faucets & Sinks,Dual control kitchen faucet,DCKF,Faucets,3,720.0,3,1
+gdowtry4j@lsu.edu,1398,Kitchen Faucets & Sinks,Kitchen faucet w sensor,KF with Sensor,Faucets,1,600.0,3,1
+jberntjd@lsu.edu,72,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,4,2
+rcayton5r@lsu.edu,100,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,4,1
+gearngycp@lsu.edu,142,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,4,1
+aforsythay@lsu.edu,162,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,4,1
+gdignall3j@lsu.edu,177,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,5,1
+jthwaite4l@lsu.edu,184,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,5,1
+ikneesha3v@lsu.edu,222,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,5,1
+pclampettfg@lsu.edu,243,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,5,1
+jkasman1i@histats.com,285,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,1
+nlarhamap@lsu.edu,298,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+dlawteye2@lsu.edu,314,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+ldickinsbh@lsu.edu,327,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+cjedrzejewskypo@lsu.edu,345,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+lcicchinellib5@lsu.edu,356,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,6,1
+kwilcockesfx@lsu.edu,382,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,6,1
+bmaclaverty2v@lsu.edu,400,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,6,1
+lthornberbk@lsu.edu,600,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,6,1
+jgarrood8v@lsu.edu,1050,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,5,1
+gmackall4z@lsu.edu,1059,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,5,1
+fjacquemypl@lsu.edu,1068,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,5,1
+mashling8s@lsu.edu,1077,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,5,1
+ituppm2@lsu.edu,1101,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,4,1
+belfordb@yahoo.co.jp,1113,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,4,1
+psarfat78@lsu.edu,1119,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,4,1
+eswanbourneq0@lsu.edu,1155,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,4,1
+cdutnallr1@lsu.edu,1236,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,4,1
+gdignall3j@lsu.edu,1245,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,4,1
+cceaser3h@lsu.edu,1278,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+pbortolazziol@lsu.edu,1284,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,3,1
+wlaurancegt@lsu.edu,1365,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+jkasman1i@histats.com,1673,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,2
+ldickinsbh@lsu.edu,1697,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+rcayton5r@lsu.edu,1853,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+nlarhamap@lsu.edu,1925,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+aforsythay@lsu.edu,1957,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+bmaclaverty2v@lsu.edu,1981,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+dlawteye2@lsu.edu,2013,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,4,80.0,3,1
+jberntjd@lsu.edu,2121,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,1
+lthornberbk@lsu.edu,2185,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,3,1
+lcicchinellib5@lsu.edu,2205,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+jthwaite4l@lsu.edu,2261,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+cjedrzejewskypo@lsu.edu,2273,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+ikneesha3v@lsu.edu,2301,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+gdignall3j@lsu.edu,2317,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,5,100.0,3,1
+pclampettfg@lsu.edu,2349,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,1
+gearngycp@lsu.edu,2377,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+kwilcockesfx@lsu.edu,2393,Lip,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,1
+nheckjx@lsu.edu,813,Long Sleeves,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,5,150.0,3,2
+bspencleyka@lsu.edu,942,Long Sleeves,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,5,150.0,4,1
+solooneybx@lsu.edu,984,Long Sleeves,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,5,150.0,5,1
+oreppaportr0@lsu.edu,1029,Long Sleeves,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,2,60.0,5,1
+adebellis2@mit.edu,1182,Long Sleeves,Long-sleeved Jersey Top,Gap Jersey Top,Cute Jersey Top,1,30.0,4,1
+jkruszelnickik3@lsu.edu,1218,Long Sleeves,Long-sleeved Jersey Top,Gap Jersey Top,Cute Jersey Top,3,90.0,4,1
+amaccathayam@lsu.edu,74,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,4,1
+tizzatt4e@lsu.edu,105,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,4,1
+dmccritchiej3@lsu.edu,109,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,4,1
+ascohiergc@lsu.edu,233,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,5,1
+fdeans6l@lsu.edu,238,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,5,2
+solooneybx@lsu.edu,264,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+emillhill6q@lsu.edu,287,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+cfridpm@lsu.edu,337,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+rpointn@globo.com,375,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,6,1
+ofumagalliqv@lsu.edu,861,Makeup,Waffled Bathrobe,Lotus SuperProtector Sunscreen,Sunscreen,4,100.0,3,1
+lcootesj9@lsu.edu,1074,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,5,1
+itompkinson28@pcworld.com,1086,Makeup,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,5,125.0,4,1
+vrissonh@lsu.edu,1092,Makeup,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,1,20.0,4,1
+cjedrzejewskypo@lsu.edu,1212,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,4,1
+hcapellee6@lsu.edu,1239,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,4,1
+strenamanhu@lsu.edu,1281,Makeup,Unseen Sunscreen SPF 40 PA+++,Lotus SuperProtector Sunscreen,Sunscreen,3,75.0,3,1
+hbintonme@lsu.edu,1317,Makeup,Hollywood Flawless Filter,Loreal Foundation Supreme,Foundation,5,100.0,3,1
+acazindy@lsu.edu,1320,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,3,60.0,3,1
+wfranzenct@lsu.edu,1344,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,2,40.0,3,1
+ghalvorsen95@lsu.edu,1377,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,1,15.0,3,1
+wspadelli8j@lsu.edu,1395,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+dmccritchiej3@lsu.edu,1629,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+rpointn@globo.com,1649,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,3,45.0,3,1
+amaccathayam@lsu.edu,1705,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+ascohiergc@lsu.edu,1821,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,2,1
+emillhill6q@lsu.edu,1893,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+solooneybx@lsu.edu,1969,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+fdeans6l@lsu.edu,1997,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,5,75.0,3,1
+tizzatt4e@lsu.edu,2217,Makeup,Retractable Rouge Gel Lip Liner,Sephora Rouge Gel Lip Liner,Lip Liner,1,20.0,3,1
+cfridpm@lsu.edu,2333,Makeup,Liquid Touch Concealer Brush,Rare Beauty Liquid Touch Brush,Makeup Brush,4,60.0,3,1
+spinwillhg@lsu.edu,765,Meat & Seafood,Fresh Wild Caught Snow Crab,Snow Crab,Fresh Snow Crab,2,36.0,3,1
+spinwillhg@lsu.edu,2537,Meat & Seafood,Fresh Wild Caught Snow Crab,Snow Crab,Fresh Snow Crab,2,36.0,3,1
+zcornillibb@lsu.edu,84,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,4,2
+ahaskerjg@lsu.edu,123,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,4,1
+ctelezhking7@lsu.edu,160,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,4,200.0,4,0
+wfranzenct@lsu.edu,204,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,5,0
+kmusslewhitedp@lsu.edu,255,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,5,1
+jcory4w@lsu.edu,286,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+hleroy7s@lsu.edu,293,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+cmcallof@lsu.edu,296,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+kwilcockesfx@lsu.edu,338,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+glibbie7q@lsu.edu,349,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+avirr66@lsu.edu,366,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,6,1
+vconquest69@lsu.edu,371,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,6,1
+cmcallof@lsu.edu,1785,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,2,1
+avirr66@lsu.edu,1829,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,2,1
+glibbie7q@lsu.edu,1881,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+hleroy7s@lsu.edu,1917,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+jcory4w@lsu.edu,1945,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+kmusslewhitedp@lsu.edu,2037,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,1,50.0,3,1
+vconquest69@lsu.edu,2129,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,3,1
+ctelezhking7@lsu.edu,2225,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,4,200.0,3,1
+ahaskerjg@lsu.edu,2325,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,2,100.0,3,1
+zcornillibb@lsu.edu,2373,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,3,150.0,3,1
+kwilcockesfx@lsu.edu,2389,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+wfranzenct@lsu.edu,2449,Mixing & Measuring Tools,Mixing bowl,Mr.Mixing bowl,Bowl,5,250.0,3,1
+rpointn@globo.com,744,Outdoor Decor,Outdoor 2-Piece Deep Seat Cushion,Deep Seat Cushion,Comfortable,5,175.0,3,1
+rpointn@globo.com,2509,Outdoor Decor,Outdoor 2-Piece Deep Seat Cushion,Deep Seat Cushion,Comfortable,5,175.0,3,1
+wlaurancegt@lsu.edu,717,Pain Relievers,Tylenol Extra Strength Acetaminophen Rapid Release Gels,Tylenol Gel,Relieve Pain,5,25.0,6,2
+wlaurancegt@lsu.edu,2473,Pain Relievers,Tylenol Extra Strength Acetaminophen Rapid Release Gels,Tylenol Gel,Relieve Pain,5,25.0,3,1
+ldickinsbh@lsu.edu,780,Patio & Garden,lanterns,Chinese Lanterns,Beautiful in the sky,4,80.0,3,1
+ldickinsbh@lsu.edu,2557,Patio & Garden,lanterns,Chinese Lanterns,Beautiful in the sky,4,80.0,3,1
+clelievre1q@spiegel.de,756,Patio Conversation Sets,Mainstays Tuscany Ridge Outdoor 4 Piece Wicker Conversation Set,Tuscany Ridge Conversation Set,4 Piece Conversation Set,2,598.0,3,1
+clelievre1q@spiegel.de,2525,Patio Conversation Sets,Mainstays Tuscany Ridge Outdoor 4 Piece Wicker Conversation Set,Tuscany Ridge Conversation Set,5 Piece Conversation Set,2,598.0,3,1
+dmccritchiej3@lsu.edu,729,Performance Nutrition,Body Fortress Super Advanced Whey Protein,BF SA Whey,Gains!,3,297.0,6,1
+dmccritchiej3@lsu.edu,2489,Performance Nutrition,Body Fortress Super Advanced Whey Protein,BF SA Whey,Gains!,3,297.0,3,1
+ghalvorsen95@lsu.edu,735,Pets,Blue Buffalo Freedom Chicken Dry Dog Food for Senior Dogs,BB FC Dry Dog Food,Healthy and Yummy,5,345.0,3,1
+ghalvorsen95@lsu.edu,2497,Pets,Blue Buffalo Freedom Chicken Dry Dog Food for Senior Dogs,BB FC Dry Dog Food,Healthy and Yummy,5,345.0,3,1
+jspraggon8f@lsu.edu,759,Pies,Patti LaBelle 8 inch Sweet Potato Pie,Sweet Potato Pie,Mouthwatering Pie,3,24.0,3,1
+jspraggon8f@lsu.edu,2529,Pies,Patti LaBelle 8 inch Sweet Potato Pie,Sweet Potato Pie,Mouthwatering Pie,3,24.0,3,1
+predittjv@lsu.edu,738,Playstation,Horizon: Forbidden West Launch Edition,Horizon: FW,Adventure MMO,3,600.0,3,1
+predittjv@lsu.edu,2501,Playstation,Horizon: Forbidden West Launch Edition,Horizon: FW,Adventure MMO,3,600.0,3,1
+tlinebargerh@flickr.com,1,Samsung,Samsung Galaxy,S22,Powerful Android,4,3400.0,3,2
+cmaxted8c@lsu.edu,65,Samsung,Samsung Galaxy,S22,Powerful Android,4,3400.0,3,1
+nscougallba@lsu.edu,176,Samsung,Samsung Galaxy,S22,Powerful Android,1,850.0,5,1
+alillecrop1u@about.com,197,Samsung,Samsung Galaxy,S22,Powerful Android,4,3400.0,5,2
+fstodartdu@lsu.edu,329,Samsung,Samsung Galaxy,S22,Powerful Android,1,850.0,3,1
+kbennike0@merriam-webster.com,330,Samsung,Samsung Galaxy,S22,Powerful Android,2,1700.0,3,1
+mbuddenqw@lsu.edu,368,Samsung,Samsung Galaxy,S22,Powerful Android,2,1700.0,6,1
+cmaxted8c@lsu.edu,1681,Samsung,Samsung Galaxy,S23,Powerful Android,4,3400.0,3,1
+alillecrop1u@about.com,1801,Samsung,Samsung Galaxy,S23,Powerful Android,4,3400.0,2,1
+fstodartdu@lsu.edu,2061,Samsung,Samsung Galaxy,S23,Powerful Android,1,850.0,3,1
+nscougallba@lsu.edu,2249,Samsung,Samsung Galaxy,S23,Powerful Android,1,850.0,3,1
+kbennike0@merriam-webster.com,2297,Samsung,Samsung Galaxy,S23,Powerful Android,2,1700.0,3,1
+mbuddenqw@lsu.edu,2357,Samsung,Samsung Galaxy,S22,Powerful Android,2,1700.0,3,1
+tlinebargerh@flickr.com,2429,Samsung,Samsung Galaxy,S23,Powerful Android,4,3400.0,3,1
+bbartkowiak6t@lsu.edu,792,Sleepwear,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Satin Bathrobe,3,120.0,3,1
+zcowl7l@lsu.edu,831,Sleepwear,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Brobe,1,40.0,3,1
+alillecrop1u@about.com,858,Sleepwear,Washed Linen Bathrobe,Mainstays Linen Bathrobe,Brobe,2,80.0,3,1
+ascohiergc@lsu.edu,873,Sleepwear,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,5,200.0,3,1
+avirr66@lsu.edu,879,Sleepwear,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Brobe,4,160.0,3,1
+mbuesdennk@lsu.edu,894,Sleepwear,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,1,40.0,4,1
+gdeblaseer@lsu.edu,912,Sleepwear,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,4,160.0,4,1
+bparkenl7@lsu.edu,1083,Sleepwear,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,4,160.0,4,1
+rwomack49@lsu.edu,1122,Sleepwear,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,1,40.0,4,1
+mromayniq@lsu.edu,1131,Sleepwear,Waffled Bathrobe,Mainstays Waffled Bathrobe,Brobe,5,200.0,4,1
+bbartkowiak6t@lsu.edu,2573,Sleepwear,Satin and Lace Bathrobe,Mainstays Satin Bathrobe,Satin Bathrobe,3,120.0,3,1
+onewlindl@lsu.edu,71,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,4,1
+lmcmanusmc@lsu.edu,240,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,1,110.0,5,1
+wfranzenct@lsu.edu,262,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,2,220.0,3,1
+cdullardbp@lsu.edu,350,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,4,440.0,3,1
+cmcpolindw@lsu.edu,354,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,5,550.0,6,1
+clelievre1q@spiegel.de,364,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,5,550.0,6,1
+clelievre1q@spiegel.de,1665,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,5,550.0,3,1
+cmcpolindw@lsu.edu,1721,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,5,550.0,3,1
+onewlindl@lsu.edu,1869,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,3,1
+lmcmanusmc@lsu.edu,2181,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,1,110.0,3,1
+cdullardbp@lsu.edu,2329,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,4,440.0,3,1
+wfranzenct@lsu.edu,2441,T-Shirts,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,2,220.0,3,1
+edionisiih1@lsu.edu,34,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,3,1
+rdellenbroker6c@lsu.edu,69,Tops,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,3,1
+elyfecx@lsu.edu,75,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,2,220.0,4,1
+gechalieh4@lsu.edu,81,Tops,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,4,1
+ecortingq@lsu.edu,96,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,4,1
+dcordeniw@lsu.edu,164,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,5,550.0,4,1
+ghalvorsen95@lsu.edu,192,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,1,110.0,5,1
+awillderjq@lsu.edu,205,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,2,220.0,5,1
+ecortingq@lsu.edu,309,Tops,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,3,1
+cmcpolindw@lsu.edu,798,Tops,Long-sleeved Jersey Top,H&M Jersey Top,Full Sleeves,1,30.0,3,1
+glibbie7q@lsu.edu,924,Tops,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,4,120.0,4,1
+nlarhamap@lsu.edu,951,Tops,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,3,90.0,4,1
+aforsythay@lsu.edu,975,Tops,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,1,30.0,5,1
+qricardoufm@lsu.edu,1023,Tops,Long-sleeved Jersey Top,H&M Jersey Top,Cute Jersey Top,3,90.0,5,1
+rvanderhoeven9h@lsu.edu,1167,Tops,Long-sleeved Jersey Top,Gap Jersey Top,Cute Jersey Top,1,30.0,4,1
+rbuchankl@lsu.edu,1185,Tops,Long-sleeved Jersey Top,Gap Jersey Top,Cute Jersey Top,3,90.0,4,1
+oflahiveif@lsu.edu,1224,Tops,Long-sleeved Jersey Top,Gap Jersey Top,Cute Jersey Top,4,120.0,4,1
+ghalvorsen95@lsu.edu,1637,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,3,1
+dcordeniw@lsu.edu,1689,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,5,550.0,3,1
+awillderjq@lsu.edu,1777,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,2,220.0,3,1
+edionisiih1@lsu.edu,2085,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,3,1
+gechalieh4@lsu.edu,2193,Tops,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,1,120.0,3,1
+elyfecx@lsu.edu,2229,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,2,220.0,3,1
+rdellenbroker6c@lsu.edu,2405,Tops,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,3,1
+ecortingq@lsu.edu,2453,Tops,Oversized T-shirt,Skeleton Hand Print Oversized tee,Attractive tee,3,330.0,3,1
+ecortingq@lsu.edu,2457,Tops,Ribbed Turtleneck Bodysuit,Wilde Black Ribbed Long Sleeve Mock Neck Bodysuit,Turtleneck tee,3,360.0,3,1
+cmcpolindw@lsu.edu,2581,Tops,Long-sleeved Jersey Top,H&M Jersey Top,Full Sleeves,1,30.0,3,1
+nrideoutmi@lsu.edu,708,Toys,Monster Jam El Toro,MJ Mega El Toro,Kid's toys,2,140.0,6,1
+nrideoutmi@lsu.edu,2461,Toys,Monster Jam El Toro,MJ Mega El Toro,Kid's toys,2,140.0,3,1
+rdichee@adobe.com,726,Video Games,Elden Ring,ER: MMO,Interactive MMO,4,600.0,6,1
+rdichee@adobe.com,2485,Video Games,Elden Ring,ER: MMO,Interactive MMO,4,600.0,3,1
+bstrangeri3@lsu.edu,789,Wall Cabinets,"Wall cabinet with 2 doors30x15x40 """,Ikea WC - 2 doors,Cabinets,1,80.0,3,1
+akelby20@drupal.org,822,Wall Cabinets,"Wall cabinet with 2 doors30x15x40 """,Ikea WC - 2 doors,Cabinets,4,320.0,3,1
+glibbie7q@lsu.edu,921,Wall Cabinets,"Wall cabinet w glass door/2 drawers, white/Torhamn ash",Ikea WC - White,Cabinets,5,400.0,4,1
+bstrangeri3@lsu.edu,2569,Wall Cabinets,"Wall cabinet with 2 doors30x15x40 """,Ikea WC - 2 doors,Cabinets,1,80.0,3,1
+wlaurancegt@lsu.edu,720,Wellness,Spring Valley Extra Strength Melatonin Tablets,SV ES Melatonin,Sleep like a baby,5,50.0,6,1
+wlaurancegt@lsu.edu,2477,Wellness,Spring Valley Extra Strength Melatonin Tablets,SV ES Melatonin,Sleep like a baby,5,50.0,3,1
+dcordeniw@lsu.edu,774,Yoga,Evolve by Gaiam Grippy Yoga Barre Socks,GG Yoga Socks,Comfortable,4,40.0,3,1
+dcordeniw@lsu.edu,2549,Yoga,Evolve by Gaiam Grippy Yoga Barre Socks,GG Yoga Socks,Comfortable,4,40.0,3,1

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='categories.css')}}">
+    <title>Categories</title>
+</head>
+<body>
+    
+    <div class="container mt-5">
+        <h1>All Categories</h1>
+        <div class="row category-grid">
+            {% for category in categories %}
+                <div class="col-md-4 col-sm-6 mb-4">
+                    <div class="category-item">
+                        <a href="{{ url_for('sub_categories', category_name=category[1]) }}" class="category-link">{{ category[1] }}</a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+       
+        <!-- {% if user_role == 'Bidder' %} -->
+        <a href="{{ url_for('bidder_welcome') }}" class="btn btn-primary mt-4">Go Back!</a>
+        <!-- {% elif user_role == 'Seller' %} -->
+            <!-- <a href="{{ url_for('seller_welcome') }}" class="btn btn-primary mt-4">Go Back!</a> -->
+        <!-- {% endif %} -->
+    </div>
+    
+</body>
+</html>

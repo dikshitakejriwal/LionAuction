@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Place Bid</title>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1>Place Bid</h1>
+        <form action="{{ url_for('place_bid') }}" method="post">
+            <div class="form-group">
+                <label for="bid_amount">Bid Amount</label>
+                <input type="number" class="form-control" id="bid_amount" name="bid_amount" min="1" step="1" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit Bid</button>
+            {% with messages = get_flashed_messages(category_filter=['error']) %}
+            {% if messages %}
+            <div class="container">
+                <ul class="list-unstyled alert alert-info">
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endwith %}
+        </form>
+        <a href="{{ url_for('auction_details', listing_id=auction_data[1], category_name=auction_data[2], product_name=auction_data[4], sellers_email=auction_data[0]) }}" class="btn btn-secondary mt-3">Back to Auction Details</a>
+    </div>
+</body>
+
+</html>

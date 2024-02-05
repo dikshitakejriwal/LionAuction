@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #F0F8FF;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+}
+
+.card-title {
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.card-text {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.btn {
+    margin-right: 10px;
+}

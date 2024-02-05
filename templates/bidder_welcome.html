@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!-- <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to LionAuction</h1>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Welcome</title>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Welcome,{{ user[1] }}</h1>
+        <p>Email: {{ user[0] }}</p>
+        <p> Role: Bidder </p>
+        
+        
+        <form action="{{ url_for('change_role') }}" method="post">
+            <div class="dropdown mt-3">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Change Role
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <button class="dropdown-item" type="submit" name="role" value="Bidder">Bidder</button>
+                    <button class="dropdown-item" type="submit" name="role" value="Seller">Seller</button>
+                    <button class="dropdown-item" type="submit" name="role" value="Helpdesk">Helpdesk</button>
+                </div>
+            </div>
+            {% with messages = get_flashed_messages(category_filter=['error']) %}
+            {% if messages %}
+            <div class="container">
+                <ul class="list-unstyled alert alert-info">
+                    {% for message in messages %}
+                    <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endwith %}
+        </form>
+
+        <a href="/categories" class="btn btn-primary mt-3">Browse Categories</a>
+
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Account Settings</h4>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><a href="/bidder_personal_info">Personal Information</a></li>
+                        <li class="list-group-item"><a href="/add_card">Payment Settings</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>My LionAuction</h4>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><a href="/display_bids">My Bids</a></li>
+                        <li class="list-group-item"><a href="/purchases">Purchase History</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Help & Contact</h4>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><a href="">Help Center</a></li>
+                        <li class="list-group-item"><a href="">Contact Support</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <h3 style="margin-top: 40px;">Notifications</h3>
+        {% if session.get('notifications') and session['notifications'].get(user[0]) %}
+            <div class="alert alert-info" role="alert" >
+                {{ session['notifications'][user[0]] | safe}}
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        {% endif %}
+        <a href="/" class="btn btn-danger mt-4">Logout</a>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+</html>
+
