@@ -4,18 +4,14 @@ Lion Auction is an online auction system that allows registered users to buy and
 
 ## Features
 
-- login.html is the main page that will be shown on the when you run on the server. This page will ask your email and password. If your email and password matches one stored in the database you will be directed to a profile page. Otherwise, you will be given an error message saying email or password are invalid. 
-- database_hashed.db contains passwords that are hashed and and database.db contains passwords that are not hashed.
- - I was able to successfully hash the database but not able to use the hashed password to verify data. The commented code all over the app.py will show my attempts to find the hash password in the database and match it with password entered by user
- - Although, I finally was able to finish the project, and display invalid password and email error message when no matching data was their in database and I was able to take the user to their profile page and make them successfully login when the information entered was correct.
-- User login with role-based access control for bidders, sellers, and helpdesk members.
-- Create and manage auction listings, including editing and taking listings off the market.
-- View categories and subcategories of items.
-- Place bids and view auction details.
-- Manage personal information, including address and credit card details.
-- Make payments for won auctions.
-- View and manage bids placed by the logged-in user.
-- View purchases made by the logged-in user.
+- Secure User Authentication: The login.html page is the first interaction users have with the platform. It prompts for an email and password, ensuring that access is granted only to users with credentials that match those in the database. Unsuccessful login attempts result in an error message.
+- Role-Based Access Control: Users can log in with specific roles—be it bidders, sellers, or helpdesk members—each with tailored access permissions to different functionalities within the platform
+- Auction Listing Management: Sellers have the ability to create, edit, and delist their auction items, providing complete control over their listings.
+- Interactive Bidding System: Bidders can place bids on items of interest and view detailed auction information, including current bids and item descriptions.
+- Personal Information Management: Users can update their personal details, including addresses and credit card information, ensuring all transactions are up to date.
+- Payment Processing: Winners of auctions can proceed to secure payment gateways to complete their purchases, with all transactions handled safely and   efficiently.
+- Bid and Purchase Histories: Users have access to their bidding history and purchased items, allowing them to track their activities and manage their acquisitions.
+- Database with Security - Users passwords are hashed to safely store in the database. database_hashed.db stores hashed passwords, providing an extra layer of security for the users.
 
 ## Organization
 
@@ -23,6 +19,7 @@ Lion Auction is an online auction system that allows registered users to buy and
 - static file design the same name html files
 - env is the flask virtual environment 
 - app.py contains all the functionality of pages, routes information(Flask and sqlite code)
+  
 Routes
 - /: Login route with POST and GET methods.
 - /change_role: Change the user's role with POST method.
